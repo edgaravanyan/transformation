@@ -15,7 +15,7 @@ This project demonstrates the use of GPU computing to create a morphing effect b
 
 ## Screenshots
 
-![Demo](screenshots/demo.gif)
+![Demo](https://edavanyan.github.io/portfolio/images/demo_transformations.mp4)
 
 ## Getting Started
 
